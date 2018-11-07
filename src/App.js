@@ -2,11 +2,6 @@ import React, { Component } from 'react';
 import './App.css';
 import YouTube from 'react-youtube';
 
-import ReactDOM from 'react-dom';
-/* import ReactPlayer from 'react-player'; */
-/* import OnScroll from 'react-on-scroll'; */
-
-
 class App extends Component {
 
   state = {

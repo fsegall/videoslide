@@ -2,7 +2,7 @@
   background-color: rgb(113, 206, 51);
 }
 
-h1 {
+h1.title {
   text-align: center;
 }
 
@@ -11,7 +11,7 @@ h1 {
   margin: auto;
   text-align: justify;
   padding: 20px;
-  color: #78e65d;
+  background-color: #f7f314;
   color: #484848;
 }
 
